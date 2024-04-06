@@ -407,9 +407,9 @@ To meet the deliverables outlined for the Species and Environment Management Das
 |Security and governance|Data governance implementation of different layers. Threat modeling across the value chain.|
 
 # <a name="_nnhithd2ypge"></a>Business Architecture 
-![](Aspose.Words.1668d65d-1a0f-425d-97c4-b2246c4ce91c.001.png)
+![](Aspose.Words.2d9a0b15-9c06-4bb4-aef7-f167665f2443.001.png)
 ## <a name="_2bmml0htwm2p"></a>Use Case Diagram
-![](Aspose.Words.1668d65d-1a0f-425d-97c4-b2246c4ce91c.002.png)
+![](Aspose.Words.2d9a0b15-9c06-4bb4-aef7-f167665f2443.002.png)
 
 **Actors**:
 
@@ -447,19 +447,19 @@ This use case diagram outlines the primary interactions between the different ac
 
 
 ## <a name="_qg9r5qehhouq"></a>Journey View
-![](Aspose.Words.1668d65d-1a0f-425d-97c4-b2246c4ce91c.003.png)
+![](Aspose.Words.2d9a0b15-9c06-4bb4-aef7-f167665f2443.003.png)
 
 7\.   	Data Models
 
-![](Aspose.Words.1668d65d-1a0f-425d-97c4-b2246c4ce91c.004.png)
+![](Aspose.Words.2d9a0b15-9c06-4bb4-aef7-f167665f2443.004.png)
 
 Integration and Information Architecture
 
-![](Aspose.Words.1668d65d-1a0f-425d-97c4-b2246c4ce91c.005.png)
+![](Aspose.Words.2d9a0b15-9c06-4bb4-aef7-f167665f2443.005.png)
 
 8\.   	High Level Component Architecture
 
-![](Aspose.Words.1668d65d-1a0f-425d-97c4-b2246c4ce91c.006.png)
+![](Aspose.Words.2d9a0b15-9c06-4bb4-aef7-f167665f2443.006.png)
 
 **Architecture:**
 
@@ -500,27 +500,27 @@ Integration and Information Architecture
 
 9\. Detailed Component Flow
 
-![](Aspose.Words.1668d65d-1a0f-425d-97c4-b2246c4ce91c.007.png)
+![](Aspose.Words.2d9a0b15-9c06-4bb4-aef7-f167665f2443.007.png)
 
 ML Architecture
 
-![](Aspose.Words.1668d65d-1a0f-425d-97c4-b2246c4ce91c.008.png)
+![](Aspose.Words.2d9a0b15-9c06-4bb4-aef7-f167665f2443.008.png)
 
 10\.   Application Architecture
 
-![](Aspose.Words.1668d65d-1a0f-425d-97c4-b2246c4ce91c.009.png)
+![](Aspose.Words.2d9a0b15-9c06-4bb4-aef7-f167665f2443.009.png)
 
 
 
 
 
-![](Aspose.Words.1668d65d-1a0f-425d-97c4-b2246c4ce91c.010.png)
+![](Aspose.Words.2d9a0b15-9c06-4bb4-aef7-f167665f2443.010.png)
 
 
 
 11\.   Deployment Arch( show NFRS)
 
-![](Aspose.Words.1668d65d-1a0f-425d-97c4-b2246c4ce91c.011.png)
+![](Aspose.Words.2d9a0b15-9c06-4bb4-aef7-f167665f2443.011.png)
 
 To design an IIoT (Industrial Internet of Things) architecture capable of registering multiple fish farms across the world with hundreds of enclosures, we need a scalable and distributed system. Here's a high-level architecture:
 
@@ -572,7 +572,7 @@ To design an IIoT (Industrial Internet of Things) architecture capable of regist
 
 13\. Non Functional Requirements Servicing
 
-![](Aspose.Words.1668d65d-1a0f-425d-97c4-b2246c4ce91c.012.png)
+![](Aspose.Words.2d9a0b15-9c06-4bb4-aef7-f167665f2443.012.png)
 
 12\.   Security
 
